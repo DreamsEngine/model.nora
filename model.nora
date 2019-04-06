@@ -1,0 +1,16 @@
+{
+    "model_version_status": [{
+        "curl": "//cdnjs.cloudflare.com/ajax/libs/tensorflow/1.0.4/tf.min.js",
+        "set": {
+            "id": "mbg_{$id}",
+            "api": "//api.dreamsengine.io/nora/",
+            "ga": "{$googleanlyticsid}"
+        },
+        "version": "2",
+        "state": "AVAILABLE",
+        "status": {
+            "error_code": "OK",
+            "error_message": ""
+        }
+    }]
+}
